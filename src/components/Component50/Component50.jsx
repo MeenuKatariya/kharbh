@@ -22,9 +22,9 @@ export const Component50 = ({ property1, className }) => {
   return (
     <div
       className={`component-50 property-1-1-${state.property1} ${className}`}
-      onClick={() => {
-        dispatch("click");
-      }}
+      // onClick={() => {
+      //   dispatch("click");
+      // }}
     >
       <div className="overlap-group-3">
         {["variant-2", "variant-3"].includes(state.property1) && (

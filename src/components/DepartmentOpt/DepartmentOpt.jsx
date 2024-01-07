@@ -17,15 +17,15 @@ export const DepartmentOpt = ({ property1, className }) => {
   return (
     <div
       className={`department-opt ${state.property1} ${className}`}
-      onClick={() => {
-        dispatch("click");
-      }}
+      // onClick={() => {
+      //   dispatch("click");
+      // }}
     >
       <div
         className="overlap-group-11"
-        onClick={() => {
-          dispatch("click_924");
-        }}
+        // onClick={() => {
+        //   dispatch("click_924");
+        // }}
       >
         {state.property1 === "default" && (
           <>
