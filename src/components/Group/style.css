@@ -1,0 +1,42 @@
+.group {
+  height: 84px;
+  width: 278px;
+}
+
+.group .overlap-group-5 {
+  background-color: #f0f0f0;
+  border: 1px solid;
+  border-color: #b4b4b4;
+  border-radius: 10px;
+  height: 84px;
+  position: relative;
+  width: 337px;
+}
+
+.group .text-wrapper-53 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.group .text-wrapper-54 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+  width: 188px;
+}

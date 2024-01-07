@@ -1,0 +1,33 @@
+.property-1-default {
+  background-color: #cef6f8;
+  border-radius: 5px;
+  height: 246px;
+  position: relative;
+  width: 248px;
+}
+
+.property-1-default .element-pathology {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  width: 244px;
+}
+
+.property-1-default .ellipse-5 {
+  background-color: #ffffff;
+  border: 5px solid;
+  border-color: #cef6f8;
+  border-radius: 14px;
+  height: 28px;
+  left: 110px;
+  position: absolute;
+  top: -14px;
+  width: 28px;
+}

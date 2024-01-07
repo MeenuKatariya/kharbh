@@ -1,0 +1,14 @@
+.namecandidate-name-CTA-score-1000-1 {
+  height: 42px;
+  position: relative;
+  width: 42px;
+}
+
+.namecandidate-name-CTA-score-1000-1 .CTA-swipe-left-2 {
+  height: 52px !important;
+  left: -5px !important;
+  position: absolute !important;
+  top: -5px !important;
+  transform: rotate(-180deg) !important;
+  width: 52px !important;
+}

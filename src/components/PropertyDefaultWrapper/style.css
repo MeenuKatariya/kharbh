@@ -1,0 +1,18 @@
+.property-default-wrapper {
+  height: 138px;
+  position: relative;
+  width: 501px;
+}
+
+.property-default-wrapper .dr-atul-nigam-instance {
+  left: 1px !important;
+  top: 19px !important;
+}
+
+.property-default-wrapper .img {
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}

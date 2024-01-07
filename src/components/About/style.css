@@ -1,0 +1,23 @@
+.about {
+  height: 32px;
+  position: relative;
+  width: 70px;
+}
+
+.about .text-wrapper-44 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 70px;
+}
+
+.about:hover .text-wrapper-44 {
+  color: #ffc04c;
+}

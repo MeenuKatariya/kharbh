@@ -1,0 +1,42 @@
+.dr-henish-radadia {
+  height: 138px;
+  position: relative;
+  width: 417px;
+}
+
+.dr-henish-radadia .dr-henish-radadia-MD {
+  color: transparent;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 23px;
+}
+
+.dr-henish-radadia .text-wrapper-16 {
+  color: #000000;
+  font-weight: 700;
+}
+
+.dr-henish-radadia .text-wrapper-17 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+  font-size: 24px;
+}
+
+.dr-henish-radadia .text-wrapper-18 {
+  color: #b4b4b4;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.dr-henish-radadia .line-4 {
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}

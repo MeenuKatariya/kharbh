@@ -1,0 +1,1749 @@
+.website-OLP-REVISED {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.website-OLP-REVISED .div-3 {
+  background-color: #ffffff;
+  height: 12570px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .overlap-5 {
+  height: 1187px;
+  left: 0;
+  position: absolute;
+  top: 11383px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .message-box {
+  background-color: #e3f8f9;
+  height: 639px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .overlap-6 {
+  border-radius: 15px;
+  height: 265px;
+  left: 82px;
+  position: relative;
+  top: 159px;
+  width: 1287px;
+}
+
+.website-OLP-REVISED .CTA-instance {
+  height: 68px !important;
+  left: 1114px !important;
+  position: absolute !important;
+  top: 68px !important;
+}
+
+.website-OLP-REVISED .book-your-appt-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.website-OLP-REVISED .bottom-bar {
+  height: 642px;
+  left: 0;
+  position: absolute;
+  top: 545px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .overlap-7 {
+  height: 642px;
+  position: relative;
+}
+
+.website-OLP-REVISED .rectangle-2 {
+  height: 515px;
+  left: 0;
+  position: absolute;
+  top: 127px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .image {
+  height: 208px;
+  left: 609px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.website-OLP-REVISED .group-4 {
+  height: 312px;
+  left: 126px;
+  position: absolute;
+  top: 773px;
+  width: 131px;
+}
+
+.website-OLP-REVISED .text-wrapper-57 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .frame-3 {
+  height: 248px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 110px;
+}
+
+.website-OLP-REVISED .text-wrapper-58 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-59 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-60 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-61 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 143px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-62 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 191px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .group-5 {
+  height: 130px;
+  left: 493px;
+  position: absolute;
+  top: 946px;
+  width: 474px;
+}
+
+.website-OLP-REVISED .text-wrapper-63 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 472px;
+}
+
+.website-OLP-REVISED .overlap-group-wrapper {
+  height: 66px;
+  left: 2px;
+  position: absolute;
+  top: 64px;
+  width: 452px;
+}
+
+.website-OLP-REVISED .overlap-group-7 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 66px;
+  position: relative;
+  width: 470px;
+}
+
+.website-OLP-REVISED .vector-3 {
+  height: 26px;
+  left: 28px;
+  position: absolute;
+  top: 18px;
+  width: 30px;
+}
+
+.website-OLP-REVISED .frame-4 {
+  height: 32px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 32px;
+}
+
+.website-OLP-REVISED .frame-5 {
+  height: 32px;
+  left: 409px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 32px;
+}
+
+.website-OLP-REVISED .frame-6 {
+  height: 28px;
+  left: 306px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 38px;
+}
+
+.website-OLP-REVISED .frame-7 {
+  height: 34px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 34px;
+}
+
+.website-OLP-REVISED .group-6 {
+  height: 77px;
+  left: 1095px;
+  position: absolute;
+  top: 789px;
+  width: 227px;
+}
+
+.website-OLP-REVISED .text-wrapper-64 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 223px;
+}
+
+.website-OLP-REVISED .text-wrapper-65 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 222px;
+}
+
+.website-OLP-REVISED .text-wrapper-66 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 365px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1127px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-67 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 973px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1127px;
+  width: 146px;
+}
+
+.website-OLP-REVISED .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1105px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .book-your-journey {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 212px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-68 {
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .text-wrapper-69 {
+  font-family: "Sarina", Helvetica;
+}
+
+.website-OLP-REVISED .text-wrapper-70 {
+  color: #0000006b;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 488px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: justify;
+  top: 784px;
+  width: 467px;
+}
+
+.website-OLP-REVISED .component-32 {
+  left: 1276px !important;
+  position: absolute !important;
+  top: 1010px !important;
+}
+
+.website-OLP-REVISED .overlap-8 {
+  height: 3520px;
+  left: -58px;
+  position: absolute;
+  top: 5542px;
+  width: 1510px;
+}
+
+.website-OLP-REVISED .OLP-business-card {
+  height: 1571px;
+  left: 58px;
+  position: absolute;
+  top: 1673px;
+  width: 746px;
+}
+
+.website-OLP-REVISED .OLP-business-card-2 {
+  height: 1571px;
+  left: 842px;
+  position: absolute;
+  top: 745px;
+  width: 656px;
+}
+
+.website-OLP-REVISED .line-10 {
+  height: 1px;
+  left: 542px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 472px;
+}
+
+.website-OLP-REVISED .text-wrapper-71 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 924px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1663px;
+  width: 466px;
+}
+
+.website-OLP-REVISED .text-wrapper-72 {
+  color: #2a1073;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 994px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 1621px;
+  width: 396px;
+}
+
+.website-OLP-REVISED .overlap-wrapper {
+  height: 439px;
+  left: 180px;
+  position: absolute;
+  top: 903px;
+  width: 1330px;
+}
+
+.website-OLP-REVISED .overlap-9 {
+  height: 439px;
+  position: relative;
+  width: 1318px;
+}
+
+.website-OLP-REVISED .overlap-10 {
+  height: 439px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1318px;
+}
+
+.website-OLP-REVISED .overlap-11 {
+  height: 439px;
+  left: 417px;
+  position: absolute;
+  top: 0;
+  width: 901px;
+}
+
+.website-OLP-REVISED .comprehensive {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 351px;
+}
+
+.website-OLP-REVISED .text-wrapper-73 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.website-OLP-REVISED .text-wrapper-74 {
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .frame-8 {
+  height: 439px;
+  left: 151px;
+  position: absolute;
+  top: 0;
+  width: 750px;
+}
+
+.website-OLP-REVISED .patient-centered {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 234px;
+}
+
+.website-OLP-REVISED .text-wrapper-75 {
+  font-family: "Satoshi Variable-Regular", Helvetica;
+}
+
+.website-OLP-REVISED .text-wrapper-76 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 54px;
+}
+
+.website-OLP-REVISED .high-quality-care {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 359px;
+}
+
+.website-OLP-REVISED .text-wrapper-77 {
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-78 {
+  color: #250664;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  width: 328px;
+}
+
+.website-OLP-REVISED .experienced-medical {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 226px;
+}
+
+.website-OLP-REVISED .line-11 {
+  height: 159px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 5px;
+}
+
+.website-OLP-REVISED .line-12 {
+  height: 159px;
+  left: 382px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 5px;
+}
+
+.website-OLP-REVISED .content-ad {
+  height: 508px;
+  left: 0;
+  position: absolute;
+  top: 2834px;
+  width: 1503px;
+}
+
+.website-OLP-REVISED .overlap-12 {
+  height: 508px;
+  left: 58px;
+  position: relative;
+  width: 1443px;
+}
+
+.website-OLP-REVISED .rectangle-3 {
+  background-color: #e3f8f9;
+  height: 303px;
+  left: 3px;
+  position: absolute;
+  top: 205px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .OLP-business-card-3 {
+  height: 508px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 809px;
+}
+
+.website-OLP-REVISED .rectangle-4 {
+  background-color: #fdfcff;
+  height: 80px;
+  left: 673px;
+  position: absolute;
+  top: 333px;
+  width: 770px;
+}
+
+.website-OLP-REVISED .your-health-deserves {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 773px;
+  letter-spacing: 0;
+  line-height: 72px;
+  position: absolute;
+  top: 262px;
+  width: 568px;
+}
+
+.website-OLP-REVISED .text-wrapper-79 {
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-80 {
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-weight: 700;
+  text-decoration: line-through;
+}
+
+.website-OLP-REVISED .partners {
+  height: 185px;
+  left: 53px;
+  /* overflow-x: scroll; */
+  position: absolute;
+  top: 3335px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .overlap-13 {
+  height: 185px;
+  position: relative;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .group-wrapper {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.website-OLP-REVISED .group-7 {
+  background-color: #f2f5f4;
+  border: 4px solid;
+  border-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: inset 0px 12px 22px #0000001f;
+  height: 185px;
+  position: relative;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .frame-9 {
+  align-items: flex-end;
+  display: flex;
+  gap: 53px;
+  left: 66px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 32px;
+  width: 1332px;
+}
+
+.website-OLP-REVISED .image-2 {
+  height: 120px;
+  object-fit: cover;
+  position: relative;
+  width: 263px;
+}
+
+.website-OLP-REVISED .image-3 {
+  height: 96px;
+  object-fit: cover;
+  position: relative;
+  width: 275px;
+}
+
+.website-OLP-REVISED .image-4 {
+  height: 81px;
+  object-fit: cover;
+  position: relative;
+  width: 333px;
+}
+
+.website-OLP-REVISED .component-50-instance {
+  left: 58px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.website-OLP-REVISED .component-41 {
+  left: 380px !important;
+  position: absolute !important;
+  top: 1827px !important;
+}
+
+.website-OLP-REVISED .overlap-14 {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: -119px;
+  width: 1447px;
+}
+
+.website-OLP-REVISED .blue-white-simple {
+  height: 779px;
+  left: 0;
+  position: absolute;
+  top: 119px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .overlap-15 {
+  height: 779px;
+  position: relative;
+}
+
+.website-OLP-REVISED .clip-path-group {
+  height: 347px;
+  left: 481px;
+  position: absolute;
+  top: 102px;
+  width: 959px;
+}
+
+.website-OLP-REVISED .mask-group {
+  height: 229px;
+  left: 0;
+  position: absolute;
+  top: 227px;
+  width: 552px;
+}
+
+.website-OLP-REVISED .clip-path-group-2 {
+  height: 504px;
+  left: 0;
+  position: absolute;
+  top: 275px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .clip-path-group-3 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 927px;
+}
+
+.website-OLP-REVISED .clip-path-group-4 {
+  height: 112px;
+  left: 1230px;
+  position: absolute;
+  top: 81px;
+  width: 210px;
+}
+
+.website-OLP-REVISED .CTA-2 {
+  left: 47px !important;
+  position: absolute !important;
+  top: 389px !important;
+}
+
+.website-OLP-REVISED .frame-10 {
+  height: 62px;
+  left: 1332px;
+  position: absolute;
+  top: 369px;
+  width: 62px;
+}
+
+.website-OLP-REVISED .CTA-3 {
+  left: 1351px !important;
+  position: absolute !important;
+  top: 389px !important;
+  transform: rotate(180deg) !important;
+  width: 44px !important;
+}
+
+.website-OLP-REVISED .rectangle-5 {
+  height: 130px;
+  left: 189px;
+  position: absolute;
+  top: 833px;
+  width: 1061px;
+}
+
+.website-OLP-REVISED .image-5 {
+  height: 1080px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1445px;
+}
+
+.website-OLP-REVISED .line-13 {
+  height: 1px;
+  left: 484px;
+  position: absolute;
+  top: 993px;
+  width: 472px;
+}
+
+.website-OLP-REVISED .rectangle-6 {
+  background-color: #e3f8f9;
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 119px;
+  width: 1440px;
+}
+
+.website-OLP-REVISED .CTA-button-alert-instance {
+  box-shadow: 0px 4px 4px #00000040 !important;
+  left: 1132px !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.website-OLP-REVISED .CTA-button-alert-2 {
+  text-shadow: 0px 4px 4px #00000040 !important;
+}
+
+.website-OLP-REVISED .image-6 {
+  height: 132px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 132px;
+}
+
+.website-OLP-REVISED .frame-11 {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  left: 510px;
+  position: absolute;
+  top: 144px;
+  width: 508px;
+}
+
+.website-OLP-REVISED .open {
+  color: #1dc4cb;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 838px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: right;
+  top: 272px;
+  width: 359px;
+}
+
+.website-OLP-REVISED .text-wrapper-81 {
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-weight: 900;
+}
+
+.website-OLP-REVISED .text-wrapper-82 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 932px;
+  white-space: nowrap;
+  width: 994px;
+}
+
+.website-OLP-REVISED .where-care-meets {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: 85px;
+  position: absolute;
+  text-align: center;
+  top: 859px;
+  white-space: nowrap;
+  width: 979px;
+}
+
+.website-OLP-REVISED .text-wrapper-83 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1046px;
+}
+
+.website-OLP-REVISED .text-wrapper-84 {
+  color: #250664;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 995px;
+  width: 266px;
+}
+
+.website-OLP-REVISED .text-wrapper-85 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 441px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4983px;
+}
+
+.website-OLP-REVISED .text-wrapper-86 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9303px;
+}
+
+.website-OLP-REVISED .at-OLP-hospital-we {
+  color: transparent;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 5139px;
+  width: 1190px;
+}
+
+.website-OLP-REVISED .text-wrapper-87 {
+  color: #b4b4b4;
+}
+
+.website-OLP-REVISED .text-wrapper-88 {
+  color: #0a626b;
+}
+
+.website-OLP-REVISED .text-wrapper-89 {
+  color: #250664;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 4941px;
+  width: 1083px;
+}
+
+.website-OLP-REVISED .text-wrapper-90 {
+  color: #250664;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 9261px;
+  width: 1083px;
+}
+
+.website-OLP-REVISED .overlap-16 {
+  height: 2519px;
+  left: -7px;
+  position: absolute;
+  top: 2263px;
+  width: 1447px;
+}
+
+.website-OLP-REVISED .text-wrapper-91 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 499px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 466px;
+}
+
+.website-OLP-REVISED .about-us {
+  height: 2519px;
+  left: 129px;
+  position: absolute;
+  top: 0;
+  width: 1195px;
+}
+
+.website-OLP-REVISED .details {
+  height: 2519px;
+  position: relative;
+  width: 1205px;
+}
+
+.website-OLP-REVISED .text-wrapper-92 {
+  color: #2a1073;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 405px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 431px;
+}
+
+.website-OLP-REVISED .introduction {
+  height: 280px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 1190px;
+}
+
+.website-OLP-REVISED .overlap-group-8 {
+  height: 280px;
+  position: relative;
+  top: -1px;
+}
+
+.website-OLP-REVISED .rectangle-7 {
+  background-color: #f0c97b;
+  height: 12px;
+  left: 183px;
+  position: absolute;
+  top: 221px;
+  width: 316px;
+}
+
+.website-OLP-REVISED .rectangle-8 {
+  background-color: #f0c97b;
+  height: 12px;
+  left: 328px;
+  position: absolute;
+  top: 181px;
+  width: 421px;
+}
+
+.website-OLP-REVISED .OLP-hospital-is-a {
+  color: transparent;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  width: 1190px;
+}
+
+.website-OLP-REVISED .text-wrapper-93 {
+  color: #b4b4b4;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-94 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .overlap-17 {
+  height: 271px;
+  left: 0;
+  position: absolute;
+  top: 865px;
+  width: 1195px;
+}
+
+.website-OLP-REVISED .BG {
+  background-color: #f0c97b1f;
+  border-radius: 12px;
+  height: 271px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1194px;
+}
+
+.website-OLP-REVISED .our-mission-our {
+  color: transparent;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 44px;
+  width: 1190px;
+  bottom:26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.website-OLP-REVISED .text-wrapper-95 {
+  color: #000000;
+  font-weight: 900;
+}
+
+.website-OLP-REVISED .text-wrapper-96 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+}
+
+.website-OLP-REVISED .text-wrapper-97 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-98 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-99 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-100 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .text-wrapper-101 {
+  color: #818181;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .overlap-18 {
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 1158px;
+  width: 1195px;
+}
+
+.website-OLP-REVISED .BG-2 {
+  background-color: #f0c97b1f;
+  border-radius: 12px;
+  height: 379px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1194px;
+}
+
+.website-OLP-REVISED .a-heritage-of-trust {
+  color: transparent;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 30px;
+  width: 1190px;
+  bottom:26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-right: 10px;
+}
+
+.website-OLP-REVISED .text-wrapper-102 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-BoldItalic", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .text-wrapper-103 {
+  color: #ffc04c;
+  font-family: "Satoshi Variable-MediumItalic", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-104 {
+  color: #f0c97b;
+  font-family: "Satoshi Variable-MediumItalic", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .text-wrapper-105 {
+  color: #818181;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.website-OLP-REVISED .overlap-19 {
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 1559px;
+  width: 1195px;
+}
+
+.website-OLP-REVISED .your-health-our {
+  color: transparent;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 29px;
+  width: 1190px;
+  bottom:26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.website-OLP-REVISED .text-wrapper-106 {
+  color: #818181;
+  font-family: "Satoshi Variable-BoldItalic", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .overlap-20 {
+  height: 559px;
+  left: 1px;
+  position: absolute;
+  top: 1960px;
+  width: 1194px;
+}
+
+.website-OLP-REVISED .BG-3 {
+  background-color: #f0c97b1f;
+  border-radius: 12px;
+  height: 545px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1194px;
+}
+
+.website-OLP-REVISED .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 517px;
+  left: 20px;
+  position: absolute;
+  top: 27px;
+  width: 1154px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-bottom: 27px;
+}
+
+.website-OLP-REVISED .text {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: relative;
+}
+
+.website-OLP-REVISED .text-wrapper-107 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-BoldItalic", Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .text-wrapper-108 {
+  color: #8a8e8f;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.website-OLP-REVISED .additional {
+  background-color: #c20a0a;
+  height: 215px;
+  left: 0;
+  position: absolute;
+  top: 566px;
+  width: 1447px;
+}
+
+.website-OLP-REVISED .overlap-21 {
+  background-color: #ffc04c;
+  height: 215px;
+  position: relative;
+}
+
+.website-OLP-REVISED .overlap-group-9 {
+  height: 113px;
+  left: 212px;
+  position: absolute;
+  top: 51px;
+  width: 1024px;
+}
+
+.website-OLP-REVISED .frame-12 {
+  height: 71px;
+  left: 453px;
+  position: absolute;
+  top: 3px;
+  width: 117px;
+}
+
+.website-OLP-REVISED .text-wrapper-109 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 382px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .frame-13 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.website-OLP-REVISED .flexcontainer-wrapper {
+  height: 73px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.website-OLP-REVISED .flexcontainer-i {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 1227px;
+  left: 17px;
+  position: relative;
+  top: -589px;
+  width: 131px;
+}
+
+.website-OLP-REVISED .text-i {
+  align-self: stretch;
+  color: #00000047;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: relative;
+  text-align: center;
+}
+
+.website-OLP-REVISED .text-wrapper-110 {
+  color: #00000047;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.website-OLP-REVISED .flexcontainer-i-wrapper {
+  height: 72px;
+  left: 443px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.website-OLP-REVISED .flexcontainer-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 229px;
+  left: 16px;
+  position: relative;
+  top: 19px;
+  width: 117px;
+}
+
+.website-OLP-REVISED .span-wrapper {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Satoshi Variable-Black", Helvetica;
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: relative;
+  text-align: center;
+}
+
+.website-OLP-REVISED .text-wrapper-111 {
+  color: #00000047;
+}
+
+.website-OLP-REVISED .text-wrapper-112 {
+  color: #000000;
+}
+
+.website-OLP-REVISED .frame-14 {
+  height: 69px;
+  left: 872px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.website-OLP-REVISED .flexcontainer-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 45px;
+  position: relative;
+  top: 12px;
+  width: 152px;
+}
+
+.website-OLP-REVISED .text-wrapper-113 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .text-wrapper-114 {
+  color: #000000;
+  font-family: "Satoshi Variable-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 1035px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+  white-space: nowrap;
+}
+
+.website-OLP-REVISED .frame-15 {
+  align-items: flex-end;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px 35px;
+  left: 136px;
+  position: absolute;
+  top: 1244px;
+  width: 1142px;
+}
+
+.website-OLP-REVISED .CTA-card-neonatal {
+  border: unset !important;
+  border-color: unset !important;
+}
+
+.website-OLP-REVISED .design-component-instance-node-2 {
+  left: 110px !important;
+  top: -14px !important;
+}
+
+.website-OLP-REVISED .CTA-card-default-instance {
+  left: 4px !important;
+  top: 98px !important;
+}
+
+.website-OLP-REVISED .card-default-instance {
+  position: relative !important;
+}
+
+.website-OLP-REVISED .card-default-2 {
+  border: unset !important;
+  border-color: unset !important;
+  width: unset !important;
+}
+
+.website-OLP-REVISED .card-default-3 {
+  left: 4px !important;
+  line-height: 40px !important;
+  top: 98px !important;
+}
+
+.website-OLP-REVISED .card-default-4 {
+  left: 4px !important;
+  line-height: 35px !important;
+  top: 98px !important;
+}
+
+.website-OLP-REVISED .find-us-here {
+  height: 913px;
+  left: 126px;
+  position: absolute;
+  top: 10350px;
+  width: 1195px;
+}
+
+.website-OLP-REVISED .call-on-option-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 239px !important;
+}
+
+.website-OLP-REVISED .phone-fill-instance {
+  height: 42px !important;
+  left: 28px !important;
+  top: 31px !important;
+}
+
+.website-OLP-REVISED .email-instance {
+  left: 427px !important;
+  position: absolute !important;
+  top: 239px !important;
+}
+
+.website-OLP-REVISED .direction {
+  height: 94px;
+  left: 854px;
+  position: absolute;
+  top: 239px;
+  width: 337px;
+}
+
+.website-OLP-REVISED .overlap-22 {
+  height: 84px;
+  position: relative;
+}
+
+.website-OLP-REVISED .group-8 {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 337px;
+}
+
+.website-OLP-REVISED .overlap-group-10 {
+  background-color: #f0c97b1f;
+  border: 1px solid;
+  border-color: #f0c97b73;
+  border-radius: 10px;
+  height: 94px;
+  position: relative;
+}
+
+.website-OLP-REVISED .text-wrapper-115 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.website-OLP-REVISED .flexcontainer-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 43px;
+  width: 138px;
+}
+
+.website-OLP-REVISED .text-i-2 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.website-OLP-REVISED .text-wrapper-116 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.website-OLP-REVISED .map-fill-instance {
+  left: 32px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.website-OLP-REVISED .map-direction-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 368px !important;
+}
+
+.website-OLP-REVISED .text-wrapper-117 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 357px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 466px;
+}
+
+.website-OLP-REVISED .text-wrapper-118 {
+  color: #2a1073;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 392px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 396px;
+}
+
+.website-OLP-REVISED .BG-4 {
+  background-color: #f0c97b1f;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12px;
+  height: 740px;
+  left: 123px;
+  position: absolute;
+  top: 9451px;
+  width: 1194px;
+}

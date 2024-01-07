@@ -1,0 +1,19 @@
+.CTA {
+  all: unset;
+  box-sizing: border-box;
+  height: 32px;
+  width: 108px;
+}
+
+.CTA .class {
+  background-color: #f0c97b !important;
+  width: unset !important;
+}
+
+.CTA .class-2 {
+  width: unset !important;
+}
+
+.CTA .CTA-send-button-instance {
+  left: 32px !important;
+}

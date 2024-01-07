@@ -1,0 +1,43 @@
+.component-30 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 507px;
+  justify-content: center;
+  padding: 42.57px 0px 42.57px 42.57px;
+  position: relative;
+  width: 400px;
+}
+
+.component-30 .image-without-tile {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 15.33px;
+  display: flex;
+  flex-direction: column;
+  gap: 17.03px;
+  height: 464px;
+  justify-content: center;
+  margin-bottom: -42.15px;
+  padding: 0px 17.03px 17.03px;
+  position: relative;
+  width: 357px;
+}
+
+.component-30 .vector-2 {
+  height: 24px;
+  position: relative;
+  width: 33.52px;
+}
+
+.component-30 .text-wrapper-34 {
+  color: #ffffff;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 38.3px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 38.3px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

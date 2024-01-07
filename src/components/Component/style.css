@@ -1,0 +1,17 @@
+.component {
+  background-color: #0a626b59;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 31px;
+  height: 62px;
+  position: relative;
+  width: 62px;
+}
+
+.component .up-instance {
+  height: 41px !important;
+  left: 13px !important;
+  position: absolute !important;
+  top: 6px !important;
+  width: 33px !important;
+}

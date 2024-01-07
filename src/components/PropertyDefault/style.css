@@ -1,0 +1,41 @@
+.property-default {
+  background-color: #cef6f8;
+  border-radius: 5px;
+  height: 246px;
+  position: relative;
+  width: 248px;
+}
+
+.property-default .element-emergency {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  width: 244px;
+}
+
+.property-default .text-wrapper-49 {
+  font-weight: 700;
+}
+
+.property-default .text-wrapper-50 {
+  font-family: "Satoshi Variable-Regular", Helvetica;
+}
+
+.property-default .ellipse-4 {
+  background-color: #ffffff;
+  border: 5px solid;
+  border-color: #cef6f8;
+  border-radius: 14px;
+  height: 28px;
+  left: 110px;
+  position: absolute;
+  top: -14px;
+  width: 28px;
+}

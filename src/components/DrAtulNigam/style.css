@@ -1,0 +1,43 @@
+.dr-atul-nigam {
+  background-color: #f0c97b4c;
+  border: 1px solid;
+  border-color: #0a626b;
+  border-radius: 12px;
+  height: 113px;
+  position: relative;
+  width: 468px;
+}
+
+.dr-atul-nigam .dr-atul-nigam-MS {
+  color: transparent;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 18px;
+}
+
+.dr-atul-nigam .span {
+  color: #000000;
+  font-weight: 700;
+}
+
+.dr-atul-nigam .text-wrapper-6 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+}
+
+.dr-atul-nigam .text-wrapper-7 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+  font-size: 24px;
+}
+
+.dr-atul-nigam .text-wrapper-8 {
+  color: #b4b4b4;
+  font-size: 24px;
+  font-weight: 700;
+}

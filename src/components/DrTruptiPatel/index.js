@@ -1,0 +1,1 @@
+export { DrTruptiPatel } from "./DrTruptiPatel";

@@ -1,0 +1,35 @@
+.CTA-card-default-wrapper {
+  background-color: #000000;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 246px;
+  position: relative;
+  width: 248px;
+}
+
+.CTA-card-default-wrapper .ellipse-6 {
+  background-color: #ffffff;
+  border: 5px solid;
+  border-color: #000000;
+  border-radius: 14px;
+  height: 28px;
+  left: 107px;
+  position: absolute;
+  top: -17px;
+  width: 28px;
+}
+
+.CTA-card-default-wrapper .neonatal-intensive {
+  color: #ffffff;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 244px;
+}

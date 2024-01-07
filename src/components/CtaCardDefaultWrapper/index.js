@@ -1,0 +1,1 @@
+export { CtaCardDefaultWrapper } from "./CtaCardDefaultWrapper";

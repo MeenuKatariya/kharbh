@@ -1,0 +1,1 @@
+export { PropertySwipeWrapper } from "./PropertySwipeWrapper";

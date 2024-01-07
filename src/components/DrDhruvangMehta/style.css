@@ -1,0 +1,38 @@
+.dr-dhruvang-mehta {
+  background-color: #ced9d540;
+  border: 1px solid;
+  border-color: #0a626b;
+  border-radius: 12px;
+  height: 113px;
+  position: relative;
+  width: 468px;
+}
+
+.dr-dhruvang-mehta .dr-dhruvang-mehta-MD {
+  color: transparent;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 18px;
+}
+
+.dr-dhruvang-mehta .text-wrapper-9 {
+  color: #000000;
+  font-weight: 700;
+}
+
+.dr-dhruvang-mehta .text-wrapper-10 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+  font-size: 24px;
+}
+
+.dr-dhruvang-mehta .text-wrapper-11 {
+  color: #b4b4b4;
+  font-size: 24px;
+  font-weight: 700;
+}

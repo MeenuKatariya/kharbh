@@ -1,0 +1,23 @@
+.services {
+  height: 32px;
+  position: relative;
+  width: 97px;
+}
+
+.services .text-wrapper-45 {
+  color: #000000;
+  font-family: "Satoshi Variable-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 97px;
+}
+
+.services:hover .text-wrapper-45 {
+  color: #ffc04c;
+}

@@ -1,0 +1,46 @@
+.button-submit {
+  align-items: flex-start;
+  display: inline-flex;
+  position: relative;
+}
+
+.button-submit .class-3 {
+  font-family: "Satoshi Variable-Bold", Helvetica !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  margin-bottom: unset !important;
+  margin-left: unset !important;
+  margin-right: unset !important;
+  margin-top: unset !important;
+  white-space: unset !important;
+}
+
+.button-submit .class-4 {
+  color: #000000 !important;
+  font-family: "Satoshi Variable-Bold", Helvetica !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  margin-bottom: unset !important;
+  margin-left: unset !important;
+  margin-right: unset !important;
+  margin-top: unset !important;
+  white-space: unset !important;
+}
+
+.button-submit .class-5 {
+  background-color: #000000 !important;
+  border-radius: 20px !important;
+  gap: 30px !important;
+  height: 75px !important;
+  padding: 16px 29px !important;
+  width: 132.97px !important;
+}
+
+.button-submit .class-6 {
+  background-color: #ffc04c !important;
+  border-radius: 20px !important;
+  gap: 30px !important;
+  height: 75px !important;
+  padding: 16px 29px !important;
+  width: 132.97px !important;
+}

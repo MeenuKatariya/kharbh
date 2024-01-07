@@ -1,0 +1,114 @@
+.department-opt {
+  width: 333px;
+}
+
+.department-opt .text-wrapper-2 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+
+.department-opt .expand-down {
+  height: 24px !important;
+  left: 252px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 20px !important;
+}
+
+.department-opt .overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 429px;
+  position: relative;
+  top: 6px;
+  width: 333px;
+}
+
+.department-opt .overlap {
+  height: 27px;
+  left: 33px;
+  position: absolute;
+  top: 24px;
+  width: 279px;
+}
+
+.department-opt .vector {
+  height: 9px;
+  left: 252px;
+  position: absolute;
+  top: 9px;
+  width: 12px;
+}
+
+.department-opt .frame {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 323px;
+  left: 32px;
+  position: absolute;
+  top: 82px;
+  width: 268px;
+}
+
+.department-opt .div-wrapper-2 {
+  height: 27px;
+  position: relative;
+  width: 268px;
+}
+
+.department-opt .text-wrapper-3 {
+  color: #d9d9d9;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 268px;
+}
+
+.department-opt .line {
+  height: 4px;
+  left: -1px;
+  position: absolute;
+  top: 60px;
+  width: 333px;
+}
+
+.department-opt.default {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 75px;
+}
+
+.department-opt.variant-3 {
+  height: 490px;
+}
+
+.department-opt.default .overlap-group-11 {
+  height: 28px;
+  left: 27px;
+  position: relative;
+  top: 23px;
+  width: 279px;
+}
+
+.department-opt.variant-3 .overlap-group-11 {
+  height: 490px;
+}

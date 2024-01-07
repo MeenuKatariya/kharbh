@@ -1,0 +1,13 @@
+.property-swipe-wrapper {
+  height: 42px;
+  position: relative;
+  width: 42px;
+}
+
+.property-swipe-wrapper .CTA-swipe-left {
+  height: 52px !important;
+  left: -5px !important;
+  position: absolute !important;
+  top: -5px !important;
+  width: 52px !important;
+}

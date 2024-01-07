@@ -1,0 +1,47 @@
+.dr-trupti-patel {
+  height: 138px;
+  position: relative;
+  width: 303px;
+}
+
+.dr-trupti-patel .dr-trupti-patel-MD {
+  color: transparent;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 27px;
+}
+
+.dr-trupti-patel .text-wrapper-12 {
+  color: #000000;
+  font-weight: 700;
+}
+
+.dr-trupti-patel .text-wrapper-13 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+}
+
+.dr-trupti-patel .text-wrapper-14 {
+  color: #000000;
+  font-family: "Sarina", Helvetica;
+  font-size: 24px;
+}
+
+.dr-trupti-patel .text-wrapper-15 {
+  color: #b4b4b4;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.dr-trupti-patel .line-3 {
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}

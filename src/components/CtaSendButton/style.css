@@ -1,0 +1,21 @@
+.CTA-send-button {
+  all: unset;
+  background-color: #d9d9d9;
+  border-radius: 12px;
+  box-sizing: border-box;
+  height: 32px;
+  position: relative;
+  width: 120px;
+}
+
+.CTA-send-button .text-wrapper-56 {
+  color: #000000;
+  font-family: "Satoshi Variable-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}

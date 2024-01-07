@@ -1,0 +1,108 @@
+.book-your-appt {
+  background-color: #ffffff;
+  border-radius: 15px;
+  height: 265px;
+  width: 1287px;
+}
+
+.book-your-appt .overlap-2 {
+  height: 245px;
+  position: relative;
+  top: -42px;
+  width: 1344px;
+}
+
+.book-your-appt .book-your {
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1344px;
+}
+
+.book-your-appt .name-box {
+  height: 75px;
+  left: 38px;
+  position: absolute;
+  top: 170px;
+  width: 290px;
+}
+
+.book-your-appt .overlap-group-2 {
+  background-image: url(https://c.animaapp.com/Pc6Y5XOd/img/rectangle-4223-1.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  position: relative;
+  width: 288px;
+}
+
+.book-your-appt .text-wrapper-4 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-BoldItalic", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  width: 243px;
+}
+
+.book-your-appt .phone-number-box {
+  height: 75px;
+  left: 371px;
+  position: absolute;
+  top: 170px;
+  width: 335px;
+}
+
+.book-your-appt .overlap-3 {
+  background-image: url(https://c.animaapp.com/Pc6Y5XOd/img/rectangle-4224-1.svg);
+  background-size: 100% 100%;
+  height: 75px;
+  position: relative;
+  width: 333px;
+}
+
+.book-your-appt .text-wrapper-5 {
+  color: #b4b4b4;
+  font-family: "Satoshi Variable-BoldItalic", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  left: 28px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  width: 279px;
+}
+
+.book-your-appt .CTA-book-button-instance {
+  left: 750px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.book-your-appt .design-component-instance-node {
+  font-size: 32px !important;
+  height: 43px !important;
+  top: 18px !important;
+}
+
+.book-your-appt .button-submit-instance {
+  display: flex !important;
+  height: 75px !important;
+  left: 1129px !important;
+  position: absolute !important;
+  top: 170px !important;
+  width: 133px !important;
+}
+
+.book-your-appt .department-opt-instance {
+  left: 750px !important;
+  position: absolute !important;
+  top: 170px !important;
+}
